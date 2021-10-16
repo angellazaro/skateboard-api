@@ -33,8 +33,8 @@
 #include <WebServer.h>
 #include <ArduinoJson.h>
 
-const char *ssid = "Goku";
-const char *password = "1234567a";
+const char *ssid = "<SSID>";
+const char *password = "<PWD>";
 
 WebServer server(80);
 
